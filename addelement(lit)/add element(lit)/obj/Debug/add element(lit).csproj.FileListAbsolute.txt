@@ -1,0 +1,20 @@
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\bin\Debug\add element(lit).exe.config
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\bin\Debug\add element(lit).exe
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\bin\Debug\add element(lit).pdb
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add element(lit).csprojAssemblyReference.cache
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add_element_lit_.Form1.resources
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add_element_lit_.Properties.Resources.resources
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add element(lit).csproj.GenerateResource.cache
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add element(lit).csproj.CoreCompileInputs.cache
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add element(lit).exe
+C:\Users\Tutul\source\repos\add element(lit)\add element(lit)\obj\Debug\add element(lit).pdb
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\bin\Debug\add element(lit).exe.config
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\bin\Debug\add element(lit).exe
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\bin\Debug\add element(lit).pdb
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add element(lit).csprojAssemblyReference.cache
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add_element_lit_.Form1.resources
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add_element_lit_.Properties.Resources.resources
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add element(lit).csproj.GenerateResource.cache
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add element(lit).csproj.CoreCompileInputs.cache
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add element(lit).exe
+E:\SEIP\Day4\day 4\add element(lit)\add element(lit)\obj\Debug\add element(lit).pdb
